@@ -4,9 +4,9 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a 
 
 <h1>🚀 Features</h1>
 
-✔️ Classic Tic-Tac-Toe gameplay
-✔️ Interactive UI with smooth animations
-✔️ Two-player mode
+✔️ Classic Tic-Tac-Toe gameplay<br>
+✔️ Interactive UI with smooth animations<br>
+✔️ Two-player mode<br>
 ✔️ Reset game option
 
 <h1>📸 Screenshots</h1>
