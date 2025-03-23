@@ -29,3 +29,14 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a 
 1. HTML<br>
 2. CSS<br>
 3. JavaScript
+
+<h2>🔗 Connect with Me</h2>
+<p>
+    <a href="https://instagram.com/aaryan_kamboj123">
+        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://linkedin.com/in/aaryan-kamboj123">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+</p>
+
