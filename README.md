@@ -26,6 +26,6 @@ A simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. Play against a 
 
 
 <h1>Tech Stack</h1>
-HTML
-CSS
-JavaScript
+1. HTML<br>
+2. CSS<br>
+3. JavaScript
